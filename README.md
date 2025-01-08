@@ -1,1 +1,1 @@
-Hello Guys
+Hello, I'm Muntajima Mahbub, a passionate Frontend Web Developer. Dedicated to crafting engaging, user-friendly web experiences. Skilled in React, Tailwind CSS, MongoDB, and modern design tools. I bring ideas to life with clean, responsive code. Let's build something amazing together!
